@@ -1,24 +1,26 @@
-# Olá! Bem-vindo(a) ao meu repositório!
+# Hello! Welcome to my repository.
 <br>
 ## Sobre mim:
 
-Olá! Me chamo Diogo, tenho 24 anos e sou estudante de ciência da computação. Meu foco de estudo está relacionado, principalmente, em tópicos de ciência de dados e machine learning. <br>
+Hi! My name is Diogo, I'm 24 years old and I'm a computer science student. My study focus is mainly related to data science and machine learning topics. 
+
+<br>
 
 ### Soft Skills:
 
-Comunicativo
+Communicative
 <br>
-Bom orador
+Good speaker
 <br>
-Trabalho em equipe
+Team work
 <br>
-Proatividade
+Proactive
 <br>
-Aprendo muito rápido
+I learn fast
 <br>
-Autodidata
+Self-taught
 <br>
 
-Quanto aos idiomas, sou fluente em português, possuo inglês intermediário com bom entendimento através da escuta e leitura.
+Regarding languages, I am fluent in Portuguese and have intermediate-level English with good comprehension through listening and reading.
 
-Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
+Feel free to explore my projects and get in touch with me. I'm excited to share my knowledge and collaborate on interesting projects.
