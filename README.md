@@ -1,10 +1,9 @@
 # Hello! Welcome to my repository.
 <br>
-## Sobre mim:
+## About me:
 
 Hi! My name is Diogo, I'm 24 years old and I'm a computer science student. My study focus is mainly related to data science and machine learning topics. 
 
-<br>
 
 ### Soft Skills:
 
