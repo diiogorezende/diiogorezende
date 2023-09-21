@@ -5,12 +5,17 @@
 Olá! Me chamo Diogo, tenho 24 anos e sou estudante de ciência da computação. Meu foco de estudo está relacionado, principalmente, em tópicos de ciência de dados e machine learning. <br>
 
 ### Soft Skills:
-<br>
+
 Comunicativo
+<br>
 Bom orador
+<br>
 Trabalho em equipe
+<br>
 Proatividade
+<br>
 Aprendo muito rápido
+<br>
 Autodidata
 <br>
 
