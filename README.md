@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá! Bem-vindo(a) ao meu repositório!
 
-<!--
-**diiogorezende/diiogorezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Me chamo Diogo, tenho 24 anos e sou estudante de ciência da computação. Meu foco de estudo está relacionado, principalmente, em tópicos de ciência de dados e machine learning. <br>
+
+<br>
+
+### Soft Skills:
+
+Comunicativo
+Bom orador
+Trabalho em equipe
+Proatividade
+Aprendo muito rápido
+Autodidata
+<br>
+
+Quanto aos idiomas, sou fluente em português, possuo inglês intermediário com bom entendimento através da escuta e leitura.
+
+Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
